@@ -19,7 +19,7 @@ const appInfo = {
 
 const LandingView: React.FC = () => {
   const location = useLocation();
-  const [activePage, setActivePage] = useState("");
+  const [activePage, setActivePage] = useState("home");
 
   useEffect(() => {
     console.log(activePage);

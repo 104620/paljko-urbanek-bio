@@ -7,19 +7,13 @@ export const Routess = (): RouteObject[] => [
   {
     path: "/",
     element: <LandingWrapper />,
-    // children: [
-    //   {
-    //     path: "/",
-    //     element: <LandingWrapper />,
-    //   },
-    // ],
   },
   {
     path: "/about",
     element: <AboutWrapper />,
   },
   {
-    path: "/contacs",
+    path: "/contacts",
     element: <ContactsView />,
   },
 ];

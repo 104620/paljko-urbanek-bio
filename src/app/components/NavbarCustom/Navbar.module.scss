@@ -1,0 +1,33 @@
+.landing-navbar {
+  width: auto;
+  // position: fixed;
+  top: 0;
+}
+
+.landing-navbar div {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-link-list ul {
+  li {
+    background-color: rgb(252, 235, 107);
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 90px;
+  }
+  li:hover {
+    background-color: rgb(253, 238, 132);
+  }
+}
+
+.navbar-link-item {
+  font-size: 18px;
+  font-weight: 550;
+  font-family: cursive;
+  color: rgb(41, 65, 77) !important;
+}

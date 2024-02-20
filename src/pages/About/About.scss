@@ -1,0 +1,76 @@
+.main-about-container {
+  height: calc(100vh - 9rem);
+  display: grid;
+  align-items: start;
+  width: 100vw;
+  max-width: 75rem;
+  margin-top: 4rem !important;
+  margin: auto;
+  gap: 4rem;
+}
+
+.navbar-contaiener {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+.intro-section {
+  padding-top: 2rem;
+}
+
+.skills-section,
+.interests-section {
+  h3 {
+    font-size: 36px;
+    font-family: cursive;
+  }
+}
+
+.css-12dv9jb {
+  min-height: 221px;
+}
+
+.MuiPaper-outlined {
+  border-radius: unset !important;
+  border: unset !important;
+  box-shadow: unset !important;
+  background-color: unset !important;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.MuiCardContent-root div,
+h6 {
+  font-family: cursive !important;
+}
+
+.MuiButton-sizeSmall {
+  height: 2rem !important;
+  width: 7rem !important;
+  font-size: 1rem !important;
+  font-family: cursive !important;
+  color: rgb(41, 65, 77) !important;
+  line-height: unset !important;
+  letter-spacing: unset !important;
+  border-radius: 20px !important;
+  display: flex !important;
+  text-transform: unset !important;
+  justify-content: center !important;
+  background-color: rgb(252, 235, 107) !important;
+}
+
+.MuiButton-sizeSmall:hover {
+  background-color: rgb(253, 238, 132) !important;
+}
+
+.MuiButtonBase-root {
+  margin: 0.5rem !important;
+}
+
+.items-start {
+  font-family: cursive !important;
+  font-size: 2rem !important;
+}

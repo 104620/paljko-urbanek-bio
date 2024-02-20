@@ -16,13 +16,11 @@ import "./index.css";
 const App: React.FC = () => {
   // const routing = useRoutes(Routess());
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<LandingWrapper />} />
-        <Route path="/about" element={<AboutWrapper />} />
-        <Route path="/contacts" element={<ContactsView />} />
-      </Routes>
-    </Router>
+    <Routes>
+      <Route path="/" element={<LandingWrapper />} />
+      <Route path="/about" element={<AboutWrapper />} />
+      <Route path="/contacts" element={<ContactsView />} />
+    </Routes>
   );
 };
 

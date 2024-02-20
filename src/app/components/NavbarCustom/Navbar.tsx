@@ -18,11 +18,14 @@ export const NavbarCustom: React.FC = () => {
           <Navbar.Link
             className={styles["navbar-link-item"]}
             as={undefined}
-            href="about"
+            href="/paljko-urbanek-bio-qinshift/about"
           >
             About
           </Navbar.Link>
-          <Navbar.Link className={styles["navbar-link-item"]} href="contacs">
+          <Navbar.Link
+            className={styles["navbar-link-item"]}
+            href="/paljko-urbanek-bio-qinshift/contacts"
+          >
             Contact
           </Navbar.Link>
         </Navbar.Collapse>

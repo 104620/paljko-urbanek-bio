@@ -8,7 +8,11 @@ export const NavbarCustom: React.FC = () => {
       <Navbar className={styles["landing-navbar"]}>
         <Navbar.Toggle />
         <Navbar.Collapse className={styles["navbar-link-list"]}>
-          <Navbar.Link className={styles["navbar-link-item"]} href="/" active>
+          <Navbar.Link
+            className={styles["navbar-link-item"]}
+            href="home"
+            active
+          >
             Home
           </Navbar.Link>
           <Navbar.Link

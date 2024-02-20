@@ -10,9 +10,9 @@ const ContactsView: React.FC = () => {
   return (
     <>
       <section>
-        <div className="navbar-contaiener">
+        {/* <div className="navbar-contaiener">
           <NavbarCustom />
-        </div>
+        </div> */}
         <div className="main-contact-container">
           <section className="intro-contact-section">
             <ContactGrid />

@@ -65,3 +65,33 @@
   align-items: stretch;
   height: 100%;
 }
+
+.landing-navbar {
+  width: auto;
+  // position: fixed;
+  top: 0;
+}
+
+.landing-navbar div {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-link-item {
+  background-color: rgb(252, 235, 107) !important;
+  border-radius: 1rem !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 90px;
+  font-size: 14px !important;
+  font-weight: 550 !important;
+  font-family: cursive !important;
+  color: rgb(41, 65, 77) !important;
+}
+
+.navbar-link-item:hover {
+  background-color: rgb(253, 238, 132) !important;
+}

@@ -10,9 +10,9 @@ const AboutView: React.FC = () => {
   return (
     <>
       <section>
-        <div className="navbar-contaiener">
+        {/* <div className="navbar-contaiener">
           <NavbarCustom />
-        </div>
+        </div> */}
         <div className="main-about-container">
           <section className="intro-section">
             <ModalGrid />

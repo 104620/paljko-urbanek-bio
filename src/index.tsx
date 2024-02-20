@@ -12,10 +12,14 @@ const App: React.FC = () => {
 
 const container = document.getElementById("root");
 
+const baseURLName = process.env.PUBLIC_URL + "/";
+
+console.log(baseURLName);
+
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename={process.env.PUBLIC_URL + "/"}>
+      <BrowserRouter basename={baseURLName}>
         <App />
       </BrowserRouter>
     </Provider>

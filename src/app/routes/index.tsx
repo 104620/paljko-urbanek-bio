@@ -5,8 +5,14 @@ import { LandingWrapper, AboutWrapper } from "./wrapper";
 
 export const Routess = (): RouteObject[] => [
   {
-    path: "/home",
+    path: "/",
     element: <LandingWrapper />,
+    // children: [
+    //   {
+    //     path: "/",
+    //     element: <LandingWrapper />,
+    //   },
+    // ],
   },
   {
     path: "/about",

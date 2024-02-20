@@ -10,7 +10,7 @@ export const NavbarCustom: React.FC = () => {
         <Navbar.Collapse className={styles["navbar-link-list"]}>
           <Navbar.Link
             className={styles["navbar-link-item"]}
-            href="home"
+            href="/paljko-urbanek-bio-qinshift/"
             active
           >
             Home

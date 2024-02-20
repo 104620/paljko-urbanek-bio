@@ -1,20 +1,34 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import {
+  BrowserRouter as Router,
+  Route,
+  Routes,
+  BrowserRouter,
+} from "react-router-dom";
 import { Provider } from "react-redux";
-import { BrowserRouter, useRoutes } from "react-router-dom";
+import { AboutWrapper, LandingWrapper } from "app/routes/wrapper";
+import { ContactsView } from "pages";
+// import { BrowserRouter, Router, useRoutes } from "react-router-dom";
 import { Routess, store } from "app";
 import "./index.css";
 
 const App: React.FC = () => {
-  const routing = useRoutes(Routess());
-  return <>{routing}</>;
+  // const routing = useRoutes(Routess());
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<LandingWrapper />} />
+        <Route path="/about" element={<AboutWrapper />} />
+        <Route path="/contacts" element={<ContactsView />} />
+      </Routes>
+    </Router>
+  );
 };
 
 const container = document.getElementById("root");
 
 const baseURLName = process.env.PUBLIC_URL + "/";
-
-console.log(baseURLName);
 
 ReactDOM.render(
   <React.StrictMode>

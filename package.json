@@ -1,8 +1,8 @@
 {
-  "homapage": "https://104620.github.io/paljko-urbanek-bio-qinshift/",
+  "homepage": "https://104620.github.io/paljko-urbanek-bio-qinshift/",
   "name": "paljko-urbanek-bio-qinshift",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@atlaskit/css-reset": "^6.6.2",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",

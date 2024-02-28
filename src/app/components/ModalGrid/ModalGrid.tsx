@@ -17,77 +17,53 @@ import styles from "./ModalGrid.module.scss";
 const whoAmIInfo = {
   title: "Who am I?",
   subtitle: "boring part",
-  sectionText: `That's a great question. Sometimes I don't even know. But let's
-  put a jokes aside for now. Hello dear reader I am Paljko
-  Urbanek. You are wondering "what a weird name that is". Well I
-  am originally from Serbia (for which I am proud of) but I have
-  Slovak nationality (yes I am Slovak and I am also proud of that).
-  I have lived there for 14 years in small Slovak town
-  called Kovačica and then I came to Slovakia for studying "To
-  see more look into the CV". I am still a student but this year
-  in couple of months to my agony will come end and I will finish
-  my masters studies at FEI STU in applied informatics (eternal pain feelling).`,
+  sectionText: `Greetings, reader! My name is Paljko Urbanek. I come originally from Serbia, fact I hold with pride. 
+  However, I am equally proud to claim Slovak nationality. My upbringing was rooted in the charming Slovak town of Kovačica, 
+  where I spent 14 years before embarking on my educational journey in Slovakia.
+  Currently, I am diligently pursuing my studies, nearing the culmination of my master's studies in Applied Informatics at FEI STU in Bratislava. 
+  if  wish to delve deeper into my experiences and qualifications, I invite you to peruse my CV.`,
 };
 
 const myExperienceInfo = {
   title: "My professional experience",
   subtitle: "not boring part",
-  sectionText: `My journey started last year in Zurich Insurance Group Ltd as an
-  intern. My work primarly involved React, Typescript, Agile
-  methodology of working, Scrum, Pipelines(a little), Azure
-  DevOps, Jira, following Figma designs. Of course the development
-  was under the mentorship of more experienced and senior
-  colleagues. I was introduced to this new technologies that I
-  didn't work before and easily fell in love with them. I am now
-  trying to pursue my career with the mentioned technologies and
-  with expanding my knowledge with backend development and work with databases like
-  NestJS, Remix, Prisma... and oneday hopefully I can be a fullstack
-  developer. I have personally worked on one project and developed
-  multiple components for a team using a bit cloud for hosting
-  scopes of components. As you have mentioned on your page that
-  the person applying can implement their own ideas this is
-  something that I would recommend if you don't have such a thing yet implemented.`,
+  sectionText: `My professional journey started last year at Zurich Insurance Group Ltd, where I began as an intern. 
+  During my tenure, I immersed myself in a dynamic environment, engaging with technologies such as React, Typescript, and Agile methodologies. 
+  Collaborating within a Scrum framework, I gained hands-on experience with pipelines, Azure DevOps, and Jira, 
+  while meticulously translating Figma designs into functional code. Under the guidance of seasoned mentors, I embraced these new technologies wholeheartedly, 
+  discovering a genuine passion for them. Now, I am steadfast in my pursuit of a career centered around these technologies, 
+  alongside a keen interest in expanding my expertise to encompass backend development and database management. Technologies like NestJS, Remix, 
+  and Prisma have captured my curiosity, for my aspiration to evolve into a proficient full-stack developer.
+  During my tenure, I contributed to a project by developing multiple components, leveraging cloud infrastructure for seamless hosting.`,
 };
 
 const whyQinShiftInfo = {
-  title: "Why Qinshift?",
+  title: "Why you?",
   subtitle: "definitely not boring part",
-  sectionText: `Although I am still a student I am looking for a full time job.
-  It is a obvious move to make ('sacraficing the rook moment').
-  Firstly I saw you on the Profesia.sk that you have job offers. I
-  have investigate you a little (I am not a stalker or anything
-  else). Your company intrigued me with your story. I found myself
-  in it so yes I would be very happy to be part of that journey -
-  "solving biggest challenges driven by the limitless potential".
-  I saw that you are constantly developing that you are interested
-  in topics that I myself am interested (like Generative AI) so I
-  think that it would a perfect bond. Secondly your company
-  convinced me because some of your board members like CFO Tijana
-  Djurović and other people are Serbian. I saw that you have
-  expanded in several balkan countries and since I am fluent in
-  slovak language so as in serbian and english I think that it
-  would be a useful that one of your potential employee (wink
-  wink) could easily communicate with all of the parties. And yes
-  I am not often using the serbian here in Slovakia so it would be
-  nice to "brush up" the language.`,
+  sectionText: `As a current student eagerly seeking to transition into full-time employment, I view this opportunity as the next logical step in my journey a moment akin to sacrificing a rook in chess, a strategic move with significant potential. 
+  Upon discovering your company and delving into its narrative, I found myself captivated by its trajectory. 
+  Far from being a stalker, I simply sought to understand the ethos and evolution of your organization.
+  Your company's story resonates deeply with me, sparking a genuine interest in becoming a part of your ongoing journey. 
+  I admire your commitment to continuous development and growth, traits that mirror my own aspirations for professional advancement.
+  Moreover, my proficiency in Slovak, Serbian, and English positions me as a versatile asset, capable of bridging linguistic and cultural divides within your team. 
+  Consider me not just as a potential employee, but as someone eager to contribute meaningfully to your company's mission and vision.
+  `,
 };
 
 const whyMeInfo = {
   title: "Why me?",
   subtitle: "hmm...",
-  sectionText: `I will be honest with you. Of course that I am not perfect (who
-    is?). I am bad at theory. I do not know exactly everything to
-    say theoretically correct (refering to theoretical
-    part of interviews). I am the best learner when I am working on
-    the real projects and if that technology like (React,
-    Typescript) drives me crazy I will learn it very easily and will
-    be the best version of myself in it. As a very young person I am
-    eager to learn. It would be nice if you could also see me as a
-    person that can help you with your jurney because I see myself
-    as a part of your company where we will grow together. I truly
-    believe that I could be beneficial for your company and as a
-    React Developer I see myself continuing my life jurney with you.
-    It would be nice if we could talk about this a little more.`,
+  sectionText: `
+  Let me be candid with you. I'm far from perfect (but then again, who isn't?). When it comes to theoretical knowledge, 
+  I may not always have all the textbook answers readily at hand. However, where I truly excel is in real-world applications. 
+  Put me on a project, especially one involving technologies like React and Typescript, and watch me thrive. 
+  I have a knack for diving headfirst into challenging technologies that pique my interest, and I become the best version of myself when I'm immersed in them.
+  As a young individual, I possess an insatiable appetite for learning. 
+  I'm not just seeking a job. I'm looking for an opportunity to grow alongside a company that values continuous development and innovation. 
+  I envision myself as a valuable contributor to your team, someone who not only benefits from your company's journey but also actively contributes to its success.
+  I firmly believe that my skills as a React Developer align perfectly with the direction your company is heading. 
+  I'm eager to explore how we can collaborate further and discuss how I can contribute to your team's ongoing projects and initiatives. 
+  Let's have a conversation and explore the possibilities together.`,
 };
 
 export const ModalGrid: React.FC = () => {

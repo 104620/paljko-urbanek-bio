@@ -21,7 +21,7 @@ const whoAmIInfo = {
   However, I am equally proud to claim Slovak nationality. My upbringing was rooted in the charming Slovak town Kovačica, 
   where I spent 14 years before embarking on my educational journey in Slovakia.
   Currently, I am diligently pursuing my studies, nearing the culmination of my master's studies in Applied Informatics at FEI STU in Bratislava. 
-  if  wish to delve deeper into my experiences and qualifications, I invite you to peruse my CV.`,
+  If you wish to delve deeper into my experiences and qualifications, I invite you to peruse my CV.`,
 };
 
 const myExperienceInfo = {
@@ -29,12 +29,12 @@ const myExperienceInfo = {
   subtitle: "not boring part",
   sectionText: `My professional journey started last year at Zurich Insurance Group Ltd, where I began as an intern. 
   During my tenure, I immersed myself in a dynamic environment, engaging with technologies such as React, Typescript, and Agile methodologies. 
-  Collaborating within a Scrum framework, I gained hands-on experience with pipelines, Azure DevOps, and Jira, 
-  while meticulously translating Figma designs into functional code. Under the guidance of seasoned mentors, I embraced these new technologies wholeheartedly, 
+  Collaborating within a Scrum framework. I gained hands-on experience with pipelines, Azure DevOps, and Jira, 
+  while meticulously translating Figma designs into functional code under the guidance of seasoned mentors, I embraced these new technologies wholeheartedly, 
   discovering a genuine passion for them. Now, I am steadfast in my pursuit of a career centered around these technologies, 
   alongside a keen interest in expanding my expertise to encompass backend development and database management. Technologies like NestJS, Remix, 
-  and Prisma have captured my curiosity, for my aspiration to evolve into a proficient full-stack developer.
-  During my tenure, I contributed to a project by developing multiple components, leveraging cloud infrastructure for seamless hosting.`,
+  Prisma Gen AI have captured my curiosity, for my aspiration to evolve into a proficient full-stack developer.
+  During my tenure, I contributed to a project and developing multiple components, hosted on bit cloud as a standardization of applications within the company.`,
 };
 
 const whyQinShiftInfo = {

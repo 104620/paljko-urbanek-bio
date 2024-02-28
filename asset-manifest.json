@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/paljko-urbanek-bio/static/css/main.a508fdf2.css",
+    "main.js": "/paljko-urbanek-bio/static/js/main.0ab908d6.js",
+    "static/media/image001.jpg": "/paljko-urbanek-bio/static/media/image001.19478006810ba7e09fa8.jpg",
+    "static/media/image001-without-bg.png": "/paljko-urbanek-bio/static/media/image001-without-bg.aae998f989022598a87b.png",
+    "static/media/primeicons.svg": "/paljko-urbanek-bio/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/paljko-urbanek-bio/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/paljko-urbanek-bio/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/primeicons.eot": "/paljko-urbanek-bio/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/paljko-urbanek-bio/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/paljko-urbanek-bio/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/podctast.png": "/paljko-urbanek-bio/static/media/podctast.405aadb51bf2af653a9e.png",
+    "static/media/python.png": "/paljko-urbanek-bio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/react.png": "/paljko-urbanek-bio/static/media/react.e99737ccf11305ff818c.png",
+    "static/media/listen.png": "/paljko-urbanek-bio/static/media/listen.8f4760e68ec7714ca354.png",
+    "static/media/primeicons.woff2": "/paljko-urbanek-bio/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/budget.png": "/paljko-urbanek-bio/static/media/budget.e6d2f3cb1246cd54688d.png",
+    "static/media/folklore-music.png": "/paljko-urbanek-bio/static/media/folklore-music.89b71a8fca1999b8c9c9.png",
+    "static/media/location-pin.png": "/paljko-urbanek-bio/static/media/location-pin.3d67c1005e0b015852d1.png",
+    "static/media/cooking.png": "/paljko-urbanek-bio/static/media/cooking.193414025fb0f677fb0e.png",
+    "static/media/bitcoin.png": "/paljko-urbanek-bio/static/media/bitcoin.995f1e672a3552f02c3b.png",
+    "static/media/contact-me.png": "/paljko-urbanek-bio/static/media/contact-me.aac8537375baae90f418.png",
+    "static/media/etherum.png": "/paljko-urbanek-bio/static/media/etherum.f72dc480ff1757842be7.png",
+    "static/media/id-card.png": "/paljko-urbanek-bio/static/media/id-card.abdf8fce9a3d37c76553.png",
+    "static/media/html-5.png": "/paljko-urbanek-bio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/photoshop-lightroom-classic.png": "/paljko-urbanek-bio/static/media/photoshop-lightroom-classic.a4e729329ea03145ff7e.png",
+    "static/media/css-3.png": "/paljko-urbanek-bio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/typescript.png": "/paljko-urbanek-bio/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/js.png": "/paljko-urbanek-bio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/paljko-urbanek-bio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.a508fdf2.css",
+    "static/js/main.0ab908d6.js"
+  ]
+}

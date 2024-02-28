@@ -18,7 +18,7 @@ const whoAmIInfo = {
   title: "Who am I?",
   subtitle: "boring part",
   sectionText: `Greetings, reader! My name is Paljko Urbanek. I come originally from Serbia, fact I hold with pride. 
-  However, I am equally proud to claim Slovak nationality. My upbringing was rooted in the charming Slovak town of Kovačica, 
+  However, I am equally proud to claim Slovak nationality. My upbringing was rooted in the charming Slovak town Kovačica, 
   where I spent 14 years before embarking on my educational journey in Slovakia.
   Currently, I am diligently pursuing my studies, nearing the culmination of my master's studies in Applied Informatics at FEI STU in Bratislava. 
   if  wish to delve deeper into my experiences and qualifications, I invite you to peruse my CV.`,

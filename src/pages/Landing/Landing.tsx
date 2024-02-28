@@ -13,7 +13,7 @@ import { useLocation } from "react-router-dom";
 import { Navbar } from "flowbite-react";
 
 const appInfo = {
-  headline: "Made for Qinshift..",
+  headline: "Made for you..",
   description: " from Paljko Urbanek",
 };
 
